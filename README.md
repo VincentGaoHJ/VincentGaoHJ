@@ -1,6 +1,6 @@
 ![Haojun Gao](https://raw.githubusercontent.com/VincentGaoHJ/VincentGaoHJ/master/assets/image.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Haojun Gao</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm [Haojun Gao](https://gaohaojun.cn/)</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -42,13 +42,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.gaohaojun.cn/"><img src="https://img.shields.io/badge/-Tech Blog-blue?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.gaohaojun.cn/"><img src="https://img.shields.io/badge/-Photo Gallery-blueviolet?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://gaohaojun.cn/Blog/"><img src="https://img.shields.io/badge/-Tech Blog-blue?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.gaohaojun.com/"><img src="https://img.shields.io/badge/-Photo Gallery-blueviolet?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/haojun-gao/"><img src="https://img.shields.io/badge/-Haojun%20Gao-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:haojun.gao@u.nus.edu"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/vincent_gaohj/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
 
 
 
