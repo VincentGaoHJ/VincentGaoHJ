@@ -27,6 +27,27 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
+
+
+### 👨🏻‍💻My Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Modern Android Architecture via MVVM + JetPack](https://gaohaojun.cn/Blog/2021/08/04/Modern-Android-Architecture-via-MVVM-JetPack/)
+
+- [AWS Certified Machine Learning (Specialty) - Topic 1: Data Engineering](https://gaohaojun.cn/Blog/2021/04/18/AWS-Machine-Learning-Specialty-1-Data-Engineer/)
+
+- [AWS Solution Architect(Associate) - Topic 10: Serverless Architecture](https://gaohaojun.cn/Blog/2021/04/16/AWS-Solution-Architect-Associate-10-Serverless/)
+
+- [AWS Solution Architect(Associate) - Topic 9: Cloud Security](https://gaohaojun.cn/Blog/2021/04/12/AWS-Solution-Architect-Associate-9-Security/)
+
+- [Not Enough Data? Deep Learning to the Rescue!](https://gaohaojun.cn/Blog/2021/04/06/Not-Enough-Data-Deep-Learning-to-the-Rescue/)
+
+- [EKK Solution for Log Analytics Platform](https://gaohaojun.cn/Blog/2021/04/06/EKK-Solution-for-Log-Analytics-Platform/)
+
+- [More..](https://gaohaojun.cn/Blog/)
+  <!-- BLOG-POST-LIST:END -->
+
+  
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -35,8 +56,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VincentGaoHJ&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
 
 
 ### 🤝🏻 &nbsp;Connect with Me
