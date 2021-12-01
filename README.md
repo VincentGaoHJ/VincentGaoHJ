@@ -32,22 +32,20 @@
 ### 👨🏻‍💻My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-**Latest Post of Machine Learning **
+🎓 Latest Posts about Machine Learning 
 
 - [LAMBADA Method: How to use Data Augmentation in NLU?](https://gaohaojun.cn/Blog/2021/10/30/LAMBADA-Method-How-to-use-Data-Augmentation-in-NLU/)
 - [Not Enough Data? Deep Learning to the Rescue!](https://gaohaojun.cn/Blog/2021/10/26/Not-Enough-Data-Deep-Learning-to-the-Rescue/)
 - [More...](https://gaohaojun.cn/Blog/)
 
-**Latest Post of Cloud Computing Services **
+💬Latest Posts about Cloud Computing Services
 
 - [AWS Certified Machine Learning (Specialty) - Topic 1: Data Engineering](https://gaohaojun.cn/Blog/2021/04/18/AWS-Machine-Learning-Specialty-1-Data-Engineer/)
 - [AWS Solution Architect(Associate) - Topic 10: Serverless Architecture](https://gaohaojun.cn/Blog/2021/04/16/AWS-Solution-Architect-Associate-10-Serverless/)
-- [AWS Solution Architect(Associate) - Topic 9: Cloud Security](https://gaohaojun.cn/Blog/2021/04/12/AWS-Solution-Architect-Associate-9-Security/)
-- [Not Enough Data? Deep Learning to the Rescue!](https://gaohaojun.cn/Blog/2021/04/06/Not-Enough-Data-Deep-Learning-to-the-Rescue/)
 - [EKK Solution for Log Analytics Platform](https://gaohaojun.cn/Blog/2021/04/06/EKK-Solution-for-Log-Analytics-Platform/)
 - [More...](https://gaohaojun.cn/Blog/categories/)
 
-**Latest Post of Agile Development **
+🌱Latest Posts about Full Stack Development
 
 - [Modern Android Architecture via MVVM + JetPack](https://gaohaojun.cn/Blog/2021/08/04/Modern-Android-Architecture-via-MVVM-JetPack/)
 - [More...](https://gaohaojun.cn/Blog/categories/)
