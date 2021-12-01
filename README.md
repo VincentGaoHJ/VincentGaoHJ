@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop cloud architecture for SME.\
-🎓 &nbsp;I'm currently studying Master Science of Business Analytics at the National University of Singapore.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+💡 &nbsp;I like to explore new technologies and develop cloud architecture for SME. Passionate  about  data-driven  business  and  business  intelligence;\
+🎓 &nbsp;I'm currently studying [Master Science of Business Analytics](https://msba.nus.edu.sg/) at the National University of Singapore.\
+🌱 &nbsp;I'm on track for learning more about Natural Language Processing for Algorithm Research, Automated Trading in Investment, and Cloud Computing for Modern Serverless Architecture.\
 ✍️ &nbsp;In my free time, I'm a [Landscape Photographer](https://www.gaohaojun.com/) and [Blog Writing](https://gaohaojun.cn/Blog/) as hobbies/side hustles.\
 💬 &nbsp;I'm also a [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) now, so feel free to reach out to me for cloud service discussion, or just for something interesting.\
 ✉️ &nbsp;You can shoot me an email at haojun.gao@u.nus.edu! I'll try to respond as soon as I can.\
@@ -32,16 +32,27 @@
 ### 👨🏻‍💻My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-- [Modern Android Architecture via MVVM + JetPack](https://gaohaojun.cn/Blog/2021/08/04/Modern-Android-Architecture-via-MVVM-JetPack/)
+**Latest Post of Machine Learning **
+
+- [LAMBADA Method: How to use Data Augmentation in NLU?](https://gaohaojun.cn/Blog/2021/10/30/LAMBADA-Method-How-to-use-Data-Augmentation-in-NLU/)
+- [Not Enough Data? Deep Learning to the Rescue!](https://gaohaojun.cn/Blog/2021/10/26/Not-Enough-Data-Deep-Learning-to-the-Rescue/)
+- [More...](https://gaohaojun.cn/Blog/)
+
+**Latest Post of Cloud Computing Services **
+
 - [AWS Certified Machine Learning (Specialty) - Topic 1: Data Engineering](https://gaohaojun.cn/Blog/2021/04/18/AWS-Machine-Learning-Specialty-1-Data-Engineer/)
 - [AWS Solution Architect(Associate) - Topic 10: Serverless Architecture](https://gaohaojun.cn/Blog/2021/04/16/AWS-Solution-Architect-Associate-10-Serverless/)
 - [AWS Solution Architect(Associate) - Topic 9: Cloud Security](https://gaohaojun.cn/Blog/2021/04/12/AWS-Solution-Architect-Associate-9-Security/)
 - [Not Enough Data? Deep Learning to the Rescue!](https://gaohaojun.cn/Blog/2021/04/06/Not-Enough-Data-Deep-Learning-to-the-Rescue/)
 - [EKK Solution for Log Analytics Platform](https://gaohaojun.cn/Blog/2021/04/06/EKK-Solution-for-Log-Analytics-Platform/)
-- [More..](https://gaohaojun.cn/Blog/)
-  <!-- BLOG-POST-LIST:END -->
+- [More...](https://gaohaojun.cn/Blog/categories/)
 
-  
+**Latest Post of Agile Development **
+
+- [Modern Android Architecture via MVVM + JetPack](https://gaohaojun.cn/Blog/2021/08/04/Modern-Android-Architecture-via-MVVM-JetPack/)
+- [More...](https://gaohaojun.cn/Blog/categories/)
+
+<!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
