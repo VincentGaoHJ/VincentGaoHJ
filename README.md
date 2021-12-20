@@ -2,6 +2,8 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm [Haojun Gao](https://gaohaojun.cn/)</h2>
 
+![](https://komarev.com/ghpvc/?username=VincentGaoHJ)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop cloud architecture for SME. Passionate  about  data-driven  business  and  business  intelligence;\
