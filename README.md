@@ -6,13 +6,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop cloud architecture for SME. Passionate  about  data-driven  business  and  business  intelligence;\
-🎓 &nbsp;I'm currently studying [Master Science of Business Analytics](https://msba.nus.edu.sg/) at the National University of Singapore.\
-🌱 &nbsp;I'm on track for learning more about Natural Language Processing for Algorithm Research, Automated Trading in Investment, and Cloud Computing for Modern Serverless Architecture.\
-✍️ &nbsp;In my free time, I'm a [Landscape Photographer](https://www.gaohaojun.com/) and [Blog Writing](https://gaohaojun.cn/Blog/) as hobbies/side hustles.\
+💡 &nbsp;I like to explore new technologies and unfold cloud architecture for SMEs. Passionate about data-driven business and business intelligence;\
+🎓 &nbsp;I'm currently pursuing [Master Science of Business Analytics](https://msba.nus.edu.sg/) at the National University of Singapore.\
+🌱 &nbsp;I'm on track to learn more about Natural Language Processing for Algorithm Research, Automated Trading in Investment, and Cloud Computing for Modern Serverless Architecture.\
+✍️ &nbsp;In my free time, I'm a [Landscape Photographer](https://www.gaohaojun.com/); [Blog Writing](https://gaohaojun.cn/Blog/) as hobbies/side hustles.\
 💬 &nbsp;I'm also a [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) now, so feel free to reach out to me for cloud service discussion, or just for something interesting.\
-✉️ &nbsp;You can shoot me an email at haojun.gao@u.nus.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://gaohaojun.cn/markdown-cv/) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at vincentgaohj@gmail.com! I'll respond as quick as I can and I'm always open to feedback and suggestions!.\
+📄 &nbsp;Please have a look at my [Résumé](https://gaohaojun.cn/markdown-cv/) for more Cliché about me. 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/VincentGaoHJ/VincentGaoHJ/master/assets/Night-Coding.gif" align="right"/>
 
